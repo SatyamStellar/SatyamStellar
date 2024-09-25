@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Satyam Tomar</h1>
 <h3 align="center">- A dynamic tech enthusiast passionate about IT, quick to learn, adept at problem-solving, and fueled by curiosity. With a love for tackling challenges head-on, I'm always eager to explore and innovate.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=satyamstellar&label=Profile%20views&color=0e75b6&style=flat" alt="satyamstellar" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=satyamstellar" alt="satyamstellar" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/satyam" target="blank"><img src="https://img.shields.io/twitter/follow/satyam?logo=twitter&style=for-the-badge" alt="satyam" /></a> </p>
 
@@ -12,6 +9,10 @@
 - 🌱 I’m currently learning **Backend**
 
 - 📫 How to reach me **satyam321tomar@gmai.com**
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=satyamstellar" alt="satyamstellar" /></a> </p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=satyamstellar&label=Profile%20views&color=0e75b6&style=flat" alt="satyamstellar" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
