@@ -23,8 +23,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-  <!-- Technologies -->
-  <strong>Technologies:</strong><br>
+ 
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40" style="margin-right: 10px;"/>
   </a>
@@ -43,11 +42,8 @@
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" style="margin-right: 10px;"/>
   </a>
-</p>
-
-<p align="left">
   <!-- Frameworks -->
-  <strong>Frameworks:</strong><br>
+  
   <a href="https://expressjs.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40" style="margin-right: 10px;"/>
   </a>
@@ -65,9 +61,7 @@
   </a>
 </p>
 
-<p align="left">
-  <!-- Tools -->
-  <strong>Tools:</strong><br>
+
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40" style="margin-right: 10px;"/>
   </a>
