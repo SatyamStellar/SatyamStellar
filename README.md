@@ -2,7 +2,7 @@
 <h3 align="center">- A dynamic tech enthusiast passionate about IT, quick to learn, adept at problem-solving, and fueled by curiosity. With a love for tackling challenges head-on, I'm always eager to explore and innovate.</h3>
 
 
-<p align="left"> <a href="https://x.com/satyam_stellar" target="blank"><img src="https://img.shields.io/twitter/follow/satyam?logo=twitter&style=for-the-badge" alt="satyam" /></a> </p>
+<p align="left"> <a href="https://x.com/satyam_stellar" target="blank"><img src="https://img.shields.io/twitter/follow/satyam_stellar?logo=twitter&style=for-the-badge" alt="satyam" /></a> </p>
 
 - 🔭 I’m currently working on **Multiple Personal Projects**
 
