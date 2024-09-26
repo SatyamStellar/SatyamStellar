@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Backend**
 
-- 📫 How to reach me **satyam321tomar@gmai.com**
+- 📫 How to reach me **satyam321tomar@gmail.com**
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=satyamstellar" alt="satyamstellar" /></a> </p>
 
