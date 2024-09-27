@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **satyam321tomar@gmail.com**
 
-<p align="left"> <a>[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)</a>
+<p align="left"> <a>[![trophy](https://github-profile-trophy.vercel.app/?satyamstellar=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)</a>
 
 </p>
 
