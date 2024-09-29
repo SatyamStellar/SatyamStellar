@@ -19,6 +19,5 @@
 ![](https://github-contributor-stats.vercel.app/api?username=satyamstellar&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
 ---
-<p align="center">
+
 [![](https://visitcount.itsvg.in/api?id=satyamstellar&icon=0&color=1)](https://visitcount.itsvg.in)
-</p>
