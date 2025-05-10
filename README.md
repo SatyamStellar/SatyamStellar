@@ -3,7 +3,6 @@
 
 [![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/stellar0.png)](https://tryhackme.com/p/stellar0)
 
-
 ### 💫 About Me:
 🔭 I’m currently working on Multiple Personal Projects<br><br>🌱 I’m currently learning Backend<br><br>📫 How to reach me satyam321tomar@gmail.com
 
